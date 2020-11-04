@@ -25,6 +25,11 @@
 /* Begin PBXFileReference section */
 		596A24AF25529B6E00B980B5 /* Prison Break Solution */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Prison Break Solution"; sourceTree = BUILT_PRODUCTS_DIR; };
 		596A24B225529B6E00B980B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		596A24BB25529C0500B980B5 /* prison.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prison.png; sourceTree = "<group>"; };
+		596A24BC25529C8300B980B5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		596A24BD25529D9100B980B5 /* prison1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prison1.png; sourceTree = "<group>"; };
+		596A24BE25529DD600B980B5 /* prison2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prison2.png; sourceTree = "<group>"; };
+		596A24BF25529E2D00B980B5 /* prison3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prison3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +46,8 @@
 		596A24A625529B6D00B980B5 = {
 			isa = PBXGroup;
 			children = (
+				596A24BC25529C8300B980B5 /* README.md */,
+				596A24C025529E7400B980B5 /* images */,
 				596A24B125529B6E00B980B5 /* Prison Break Solution */,
 				596A24B025529B6E00B980B5 /* Products */,
 			);
@@ -60,6 +67,17 @@
 				596A24B225529B6E00B980B5 /* main.swift */,
 			);
 			path = "Prison Break Solution";
+			sourceTree = "<group>";
+		};
+		596A24C025529E7400B980B5 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				596A24BB25529C0500B980B5 /* prison.png */,
+				596A24BD25529D9100B980B5 /* prison1.png */,
+				596A24BE25529DD600B980B5 /* prison2.png */,
+				596A24BF25529E2D00B980B5 /* prison3.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
